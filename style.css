@@ -4,6 +4,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   width:100%; height:auto; 
+  overflow:hidden;
 }
 
 canvas {
