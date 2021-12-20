@@ -1,0 +1,5 @@
+Sun Wu Kong image by Lijia Liu
+
+HTML5 Canvas effect by Jack Rugile
+
+我AI你 is forked from Reiichiro Nakano's Arbitrary Style Transfer in the Browser
